@@ -1,0 +1,47 @@
+<html>
+<head>
+<link rel="stylesheet" href="../css/global.css" type="text/css">
+
+</head> 
+
+<body>
+
+<div class="rightContentContainer"></div>
+<div class="container">
+<div class="header">
+<h1>Sara Brackenbury,LMSW</h1>
+<h3>Adolescent, Adult & Family Psychotherapy</h3>
+</div>
+
+<div class="content">
+	<div class="leftContent">
+		<ul id="navigation">
+			<li><a href="" >Home</a></li>
+			<li>a href="" >Psychotherapy</a></li>
+			<li>a href="" >About Me</a></li>
+			<li>a href="" >Fees/Insurance</a></li>
+			<li>a href="" >Contact Me</a></li>		
+		</ul>	
+	</div>
+	<div class="rightContent">
+		
+			<h2>Our lives are full of stories:</h2>
+			<div id="SaraPhoto1"></div>
+			<p>Stories we've been told about who we are and stories we tell
+			ourselves about who we are. I find the unique environment of the 
+			therapeutic relationship to be one that has the potential to transform
+			our stories, and the beliefs and feelings that accompany them, into narratives
+			possibility and growth.</p>	
+			
+	</div>
+
+</div>
+
+<div class="footer"></div>
+</div>
+
+</body>
+
+
+
+</html>

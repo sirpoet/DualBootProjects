@@ -1,0 +1,53 @@
+@import url("typography.css");
+@import url("layout.css");
+@import url("appearance.css");
+
+
+@font-face	
+{	font-family:"MavenProLight-100";
+	src:url("typefaces/MavenProLight-100.otf") format("opentype");
+}
+
+
+html
+{
+	background-color:;
+	
+}
+
+
+html,body,h1,h2,h3,h4,div,ul,li,p,
+{
+	border:0px;
+	margin:0px 0px;
+	padding:0px;
+}
+
+body
+{	font: normal 1em/150% Arial, Helvetica, sans-serif;
+}
+
+
+a
+{	text-decoration: none;	
+	
+}
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: lightgreen;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}

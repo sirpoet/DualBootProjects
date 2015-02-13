@@ -1,0 +1,76 @@
+@font-face	{	
+	font-family:"blue";
+	src: url(typeface/ClementePDai-Regular.ttf) format('truetype');
+}
+
+
+
+
+.header
+{
+	
+}
+	.header h1
+	{
+		font-size:2.2em;
+		color:lightgreen;
+	
+	}
+	.header h3
+	{
+		font-size:1em;	
+		margin-top:-20px;
+		letter-spacing: 2px;
+	}
+	
+	
+	
+	
+
+.content
+{
+
+}
+	.leftContent
+	{
+		text-align: right;
+	}
+		#navigation
+		{ font-size: 1.5em;
+		  line-height: 2;	
+				
+		}
+	
+		li
+		{	list-style:none;
+		
+		}
+	
+	
+	.rightContent
+	{padding-top: 10px;}
+		
+		.rightContent h2
+		{	font-size: 2.6em;
+			margin-bottom: 25px;
+		}	
+		
+		.rightContent p
+		{	width: 340px;
+			font-size: 1.1em;
+			line-height:2;
+			float:left;		
+				
+		}
+	
+
+
+
+
+
+
+
+.footer
+{
+
+}

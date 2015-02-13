@@ -1,0 +1,44 @@
+
+html
+{	background-color:brown;
+
+}
+
+body
+{	color:white;
+
+}
+
+.header
+{
+
+}
+
+.content
+{
+
+}
+	.leftContent
+	{
+	
+	}		
+	
+		li
+		{	
+		
+		}
+	
+	
+	.rightContent
+	{	
+	
+	}	
+	
+		.rightContentContainer
+		{		
+		
+		}	
+.footer
+{
+
+}
