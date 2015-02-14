@@ -23,16 +23,26 @@ body
 	}		
 	
 		.leftContent #navigation li
-		{	color:#6e8f3e;
+		{	color:#6e8f3e;	
 	
 		
 		}
+		
+		.leftContent #navigation li span
+		{	color:white;
 	
+		
+		}	
 	
 	.rightContent
 	{	
 	
 	}	
+	
+	#SaraPhoto1
+	{	opacity: .4;
+		background-color: lightblue;
+	}
 	
 		.rightContentContainer
 		{		
