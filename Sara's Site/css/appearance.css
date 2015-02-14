@@ -1,6 +1,6 @@
 
 html
-{	background-color:black;
+{	background-color:#c2bfae;
 
 }
 
@@ -9,8 +9,8 @@ body
 
 }
 
-.header
-{
+.header h1
+{	color:#6e8f3e;
 
 }
 
@@ -19,14 +19,16 @@ body
 
 }
 	.leftContent
-	{
-	
+	{	
 	}		
 	
-		li
-		{	
+		.leftContent #navigation li
+		{	color:#6e8f3e;
+	
 		
 		}
+		
+		.leftContent #
 	
 	
 	.rightContent
